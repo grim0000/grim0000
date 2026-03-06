@@ -1,20 +1,18 @@
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Sunil+Rathore;AI+Systems+Engineering+Student;Robotics+Builder;Professional+Bug+Creator" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Sunil+Rathore;AI+Systems+Engineering+Student;Robotics+Builder;Professional+Bug+Creator"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=grim0000&style=flat-square&color=blueviolet"/>
 </p>
 
----
-
 <p align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="80"/>
 </p>
+
+---
 
 # Sunil Rathore
 
@@ -22,10 +20,10 @@ AI engineering student building **AI systems, robotics experiments, and software
 
 Interested in systems that can:
 
-* see
-* think
-* speak
-* interact with the physical world
+• see
+• think
+• speak
+• interact with the physical world
 
 ---
 
@@ -46,8 +44,8 @@ Goal: build a **modular AI robot capable of interacting with humans.**
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="70"/>
+<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="70"/>
 </p>
 
 ---
@@ -91,14 +89,6 @@ Robotics
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="160">
-<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="160">
-<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="160">
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -119,18 +109,8 @@ Robotics
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/grim0000/grim0000/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/grim0000/grim0000/output/github-contribution-grid-snake.svg"/>
 
-</p>
-
-The snake eats my commits.
-
-If the snake starves, productivity collapsed.
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200">
 </p>
 
 ---
@@ -151,9 +131,9 @@ repeat
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="80"/>
 </p>
 
 ---

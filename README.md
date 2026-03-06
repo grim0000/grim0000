@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=grim0000&color=blueviolet&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=grim0000&style=flat-square&color=blueviolet"/>
 </p>
 
 ---
@@ -27,9 +27,7 @@ Currently exploring **AI engineering, embedded systems, and robotics architectur
 
 ## Current Project
 
-### LLM-Powered Humanoid Robot
-
-Architecture idea:
+### LLM Powered Humanoid Robot
 
 ```
 Brain  → LLM reasoning
@@ -39,7 +37,7 @@ Body   → ESP32 modules
 Logic  → config driven system
 ```
 
-Goal: build a **modular robot capable of AI-driven interaction**.
+Goal: build a **modular AI powered robot capable of interacting with humans.**
 
 ---
 
@@ -76,7 +74,7 @@ Hardware
 ```
 ESP32
 Sensors
-Embedded systems
+Embedded Systems
 Robotics
 ```
 
@@ -98,16 +96,6 @@ Robotics
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=grim0000&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 ## Contribution Snake
 
 <p align="center">
@@ -116,27 +104,19 @@ Robotics
 
 </p>
 
-A snake that slowly consumes my contribution graph.
-
 ---
 
 ## Senior Debugging Engineer
 
 <p align="center">
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="260">
+<img src="https://cataas.com/cat/gif?width=260">
 </p>
 
 Responsibilities:
 
 * walking across keyboard
 * supervising debugging
-* deleting perfectly working code
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="250">
-</p>
+* deleting working code
 
 ---
 
@@ -147,7 +127,7 @@ write code
 run code
 break code
 debug code
-search stackoverflow
+google error
 question existence
 fix code
 repeat
@@ -157,9 +137,9 @@ repeat
 
 ## Current Focus
 
-Learning how to build **real AI systems instead of just notebooks**.
+Learning how to build **real AI systems**, not just notebooks that print accuracy numbers.
 
-Areas of exploration:
+Focus areas:
 
 * AI engineering
 * robotics architecture
@@ -167,9 +147,5 @@ Areas of exploration:
 * system design
 
 ---
-
-<p align="center">
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="240">
-</p>
 
 *"The code worked yesterday. No one knows why."*

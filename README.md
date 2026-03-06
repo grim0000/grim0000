@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
+</p>
+
 # Sunil Rathore
 
 AI engineering student building **AI systems, robotics experiments, and software tools**.
@@ -20,8 +26,6 @@ Interested in systems that can:
 * think
 * speak
 * interact with the physical world
-
-Currently exploring **AI engineering, embedded systems, and robotics architecture**.
 
 ---
 
@@ -37,7 +41,14 @@ Body   → ESP32 modules
 Logic  → config driven system
 ```
 
-Goal: build a **modular AI powered robot capable of interacting with humans.**
+Goal: build a **modular AI robot capable of interacting with humans.**
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
+</p>
 
 ---
 
@@ -80,6 +91,14 @@ Robotics
 
 ---
 
+<p align="center">
+<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="160">
+<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="160">
+<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="160">
+</p>
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -100,23 +119,19 @@ Robotics
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/grim0000/grim0000/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/grim0000/grim0000/output/github-contribution-grid-snake.svg">
 
 </p>
+
+The snake eats my commits.
+
+If the snake starves, productivity collapsed.
 
 ---
 
-## Senior Debugging Engineer
-
 <p align="center">
-<img src="https://cataas.com/cat/gif?width=260">
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200">
 </p>
-
-Responsibilities:
-
-* walking across keyboard
-* supervising debugging
-* deleting working code
 
 ---
 
@@ -135,16 +150,11 @@ repeat
 
 ---
 
-## Current Focus
-
-Learning how to build **real AI systems**, not just notebooks that print accuracy numbers.
-
-Focus areas:
-
-* AI engineering
-* robotics architecture
-* embedded systems
-* system design
+<p align="center">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120">
+</p>
 
 ---
 

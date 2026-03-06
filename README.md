@@ -5,27 +5,24 @@
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=grim0000&color=blueviolet&style=flat-square"/>
-
 </p>
 
 ---
 
 # 🧠 Sunil Rathore
 
-AI Engineering student building **AI systems, robotics experiments, and software tools**.
+AI Engineering student building **AI systems, robotics experiments, and tools that occasionally behave.**
 
-I like systems that can:
+Interested in systems that can:
 
-* **see**
-* **think**
-* **speak**
-* **and occasionally break in spectacular ways**
+* see
+* think
+* speak
+* and sometimes disobey their creator
 
-Assignments are temporary.
-
-Projects are permanent.
+Assignments come and go.
+Projects stay forever.
 
 ---
 
@@ -40,13 +37,16 @@ Brain        → LLM reasoning
 Eyes         → Camera module
 Voice        → Speech + TTS
 Body         → ESP32 modules
-Control      → Config driven system
+Control      → Config driven architecture
 ```
 
 Goal:
-A robot that can interact with humans and **run autonomously using AI reasoning**.
 
-Basically a small step toward **AI-powered physical agents**.
+A modular robot capable of **AI-driven interaction with the physical world**.
+
+Small robot today.
+
+Slightly concerning AI entity tomorrow.
 
 ---
 
@@ -60,7 +60,7 @@ C++
 JavaScript
 ```
 
-### AI
+### AI / ML
 
 ```
 LLM APIs
@@ -105,7 +105,7 @@ Robotics
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -115,7 +115,7 @@ Robotics
 
 ---
 
-# 🧠 Languages Used
+# 🧠 Most Used Languages
 
 <p align="center">
 
@@ -129,44 +129,46 @@ Robotics
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/grim0000/grim0000/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
-The snake eats my commits.
+A snake that eats my commits.
 
-If it starves, productivity collapsed.
+If the snake starves, productivity collapsed.
 
 ---
 
 # 🐱 Senior Debugging Engineer
 
 <p align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300"/>
-
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="260"/>
 </p>
 
 Responsibilities:
 
 * walk across keyboard
-* close random tabs
-* improve morale
+* delete working code
+* supervise debugging
 
 ---
 
-# 🧠 Current Learning Path
+<p align="center">
+<img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="250"/>
+</p>
 
-Deep diving into:
+---
+
+# 🧠 Current Learning
+
+Exploring how to build **real AI systems**, not just notebooks that print accuracy scores.
+
+Focus areas:
 
 * AI engineering
 * robotics architecture
 * embedded systems
-* real world AI applications
-
-Translation:
-
-Trying to build **actual intelligent systems**, not just notebooks that print accuracy scores.
+* system design
 
 ---
 
@@ -185,35 +187,24 @@ repeat
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=grim0000&theme=tokyonight&no-frame=true&row=1"/>
-
-</p>
-
----
-
 # 🤝 Collaboration
 
 Interested in:
 
 * AI systems
 * robotics
-* weird experimental builds
+* experimental builds
 
-Open a PR, issue, or collaboration.
+Open an issue, PR, or collaboration.
 
-Or just observe the chaos.
+Or just watch the chaos unfold.
 
 ---
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="240"/>
 
 </p>
 
-*"The code worked yesterday.
-No one knows why."*
+*"The code worked yesterday. No one knows why."*

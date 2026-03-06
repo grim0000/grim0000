@@ -1,4 +1,4 @@
-name: generate contribution snake
+name: generate snake
 
 on:
   schedule:

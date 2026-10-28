@@ -48,7 +48,7 @@ They **judge the code.**
 
 ## 🤖 Current Project
 
-### LLM Powered Humanoid Robot
+### LLM Powered Robot
 
 ```
 Brain  → LLM reasoning
